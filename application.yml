@@ -1,3 +1,7 @@
+server:
+  application:
+    name: config-default
+
 eureka:
   client:
     fetch-registry: true
